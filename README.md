@@ -24,6 +24,6 @@ Note: OpenAI API keys can be obtained from [https://platform.openai.com/api-keys
 
 # Example:
 
-I actually used this utility to generate a PR summary for the first PR on this project, which you can find here: [https://github.com/austinjhunt/summarize-pr-with-ai/pulls/1](https://github.com/austinjhunt/summarize-pr-with-ai/pulls/1).
+I actually used this utility to generate a PR summary for the first PR on this project, which you can find here: [https://github.com/austinjhunt/summarize-pr-with-ai/pull/1](https://github.com/austinjhunt/summarize-pr-with-ai/pull/1).
 
 You'll notice I did not gitignore the `pr-summaries` folder for this project for the sake of keeping the example content, but you should gitignore it on yours.
